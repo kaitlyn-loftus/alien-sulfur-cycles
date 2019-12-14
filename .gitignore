@@ -1,0 +1,9 @@
+*.pyc
+src/__pycache__/
+figs/
+figs_sup/
+spec_inputs/
+my_results/
+lowomo19_pres.py
+pres_figs/
+*.DS_Store
